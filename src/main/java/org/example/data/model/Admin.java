@@ -18,4 +18,5 @@ public class Admin {
     private String password;
     @CreatedDate
     private String createdDate;
+    private  boolean isLoggedIn;
 }
