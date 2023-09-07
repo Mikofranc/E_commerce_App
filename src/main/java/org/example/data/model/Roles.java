@@ -1,2 +1,5 @@
-package org.example.data.model;public enum Roles {
+package org.example.data.model;
+
+public enum Roles {
+    ADMIN, DEFAULT
 }
